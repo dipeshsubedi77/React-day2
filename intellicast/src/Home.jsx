@@ -10,6 +10,9 @@ const Home = () => {
         <Button name = "Register"/>
         <Button name = "Log In"/>
         <Button name = "Sign up"/>
+        <Button name = "1"/>
+        <Button />
+
         <Card car = "Title"/>
         <Card car = "paragrap"/>
         <Card car = "image"/>
